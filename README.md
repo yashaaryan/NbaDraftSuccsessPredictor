@@ -6,14 +6,15 @@ This project aims to predict the success of NBA draft prospects based on their c
 ## Dataset
 The dataset consists of player information such as:
 - College performance metrics
-- Physical attributes (e.g., height, weight)
+- Physical attributes 
 - Draft position
 - Conference and team details
+- Post Nba career stats
 
 ## Features Used
 The model uses the following features for prediction:
 - College stats (points, rebounds, assists, etc.)
-- Physical attributes (height, weight, etc.)
+- Physical attributes 
 - Draft information (pick number, team, conference, etc.)
 
 ## Model Training & Evaluation
